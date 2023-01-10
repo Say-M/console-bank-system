@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "cmath": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "*.tcc": "cpp"
+  },
+  "c-cpp-compile-run.run-in-external-terminal": true
+}
